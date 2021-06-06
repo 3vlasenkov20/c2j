@@ -1,0 +1,17 @@
+[
+    {
+        "pk": "1",
+        "model": "sas",
+        "fields": "pop"
+    },
+    {
+        "pk": "2",
+        "model": "lot",
+        "fields": "kras"
+    },
+    {
+        "pk": "3",
+        "model": "ert",
+        "fields": "456"
+    }
+]

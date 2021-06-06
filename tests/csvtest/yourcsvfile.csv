@@ -1,0 +1,6 @@
+pk,model,fields
+22,auth.permission,"{'codename': 'add_logentry', 'name': 'Can add log entry', 'content_type': 8}"
+23,auth.permission,"{'codename': 'change_logentry', 'name': 'Can change log entry', 'content_type': 8}"
+24,auth.permission,"{'codename': 'delete_logentry', 'name': 'Can delete log entry', 'content_type': 8}"
+4,auth.permission,"{'codename': 'add_group', 'name': 'Can add group', 'content_type': 2}"
+10,auth.permission,"{'codename': 'add_message', 'name': 'Can add message', 'content_type': 4}"
